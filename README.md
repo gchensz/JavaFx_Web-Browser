@@ -13,4 +13,4 @@
 ![preview](https://github.com/gchensz/JavaFx_Web-Browser/blob/master/preview_bookmark.png)
 
 - 发送邮件
-![preview](https://github.com/gchensz/JavaFx_Web-Browser/blob/master/preview_email.png)
+
