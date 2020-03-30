@@ -7,10 +7,10 @@
 ![preview](http://gchen.site/imgur/preview_index.png)
 
 - 多标签页
-![preview](http://gchen.site/imgur/preview_multi-tabs.png)
+![preview](http://gchen.site/imgur/preview_index.png)
 
 - 加入书签
-![preview](http://gchen.site/imgur/preview_bookmark.png)
+![preview](http://gchen.site/imgur/preview_index.png)
 
 - 发送邮件
 
