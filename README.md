@@ -4,13 +4,13 @@
 
 ### 预览
 - 初始状态
-![preview](http://gchen.site/imgur/preview_index.png)
+![preview](https://github.com/gchensz/JavaFx_Web-Browser/blob/master/preview_index.png)
 
 - 多标签页
-![preview](http://gchen.site/imgur/preview_index.png)
+![preview](https://github.com/gchensz/JavaFx_Web-Browser/blob/master/preview_multi-tabs.png)
 
 - 加入书签
-![preview](http://gchen.site/imgur/preview_index.png)
+![preview](https://github.com/gchensz/JavaFx_Web-Browser/blob/master/preview_bookmark.png)
 
 - 发送邮件
 
